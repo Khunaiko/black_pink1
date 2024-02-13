@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Suthtida",
+      "lname": "aiko",
+      "email": "aiko@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0917617036",
+      "address": "Thai"
+    },
+    {
+      "id": "2",
+      "fname": "ploy ",
+      "lname": "ployee",
+      "email": "ploy@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0917617037",
+      "address": "Thai"
+    },
+    {
+      "id": "161c",
+      "fname": "nat",
+      "lname": "natee",
+      "email": "net@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "123456890",
+      "address": "Thai"
+    },
+    {
+      "id": "9fdc",
+      "fname": "Jeff",
+      "lname": "Beszos",
+      "email": "jeff@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0467979746",
+      "address": "USA"
+    },
+    {
+      "id": "17c0",
+      "fname": "Jack",
+      "lname": "ma",
+      "email": "jack@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "7878787879",
+      "address": "china"
+    }
+    ],
+
+    "BlackPink": [
+      {
+        "id": "1",
+        "name": "Jennie Black Pink",
+        "homeland": "เกิดและเติบโตที่เกาหลีใต้",
+        "imageUrl": "https://i.pinimg.com/564x/99/1c/fd/991cfdad6a1a90af2a35505e07e625e9.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Lisa Black pink",
+        "homeland": "เกิดและเติบโตที่ประเทศไทย",
+        "imageUrl": "https://i.pinimg.com/564x/e9/29/21/e929219618878ea4ce4dae858d436e31.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Jisoo Black Pink",
+        "homeland": "เกิดและเติบโตที่เกาหลีใต้",
+        "imageUrl": "https://i.pinimg.com/564x/f8/fa/d2/f8fad2b691d51fe8514f0bb5f4b2e53f.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Rosé Black Pink",
+        "homeland": "เกิดและเติบโตที่นิวซีแลนด์",
+        "imageUrl": "https://i.pinimg.com/564x/b4/6e/61/b46e614b0bb1d9e84a50b6ae123c93bc.jpg"
+      }
+    ]
+  }
